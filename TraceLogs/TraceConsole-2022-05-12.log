@@ -1,0 +1,368 @@
+09:44:50.814 [main] INFO  Util.GlobalFunction - Scenario called 
+09:44:50.829 [main] INFO  Util.GlobalFunction - ###############################################################
+09:44:50.829 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+09:44:50.829 [main] INFO  Util.GlobalFunction - ###############################################################
+09:44:50.829 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+09:44:50.829 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+09:44:51.161 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+09:44:51.161 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+09:44:54.606 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+09:44:58.535 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+09:44:58.541 [main] DEBUG Stepdef.Login.Login - Selected test data...3
+09:44:58.543 [main] DEBUG Stepdef.Login.Login - calling Excel util
+09:44:58.548 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+09:44:59.441 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+09:44:59.441 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+09:44:59.442 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+09:44:59.674 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+09:44:59.779 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+09:45:02.013 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:LW5kaWFAMTIzNTQ=
+09:45:02.167 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Test
+09:45:04.768 [main] INFO  Util.ReportGeneration - ###############################################################
+09:45:04.768 [main] DEBUG Util.ReportGeneration - Report Generation called
+09:45:07.022 [main] DEBUG Util.ReportGeneration - Report Generated
+09:45:07.022 [main] INFO  Util.ReportGeneration - ###############################################################
+09:45:25.143 [main] INFO  Util.GlobalFunction - Scenario called 
+09:45:25.159 [main] INFO  Util.GlobalFunction - ###############################################################
+09:45:25.159 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+09:45:25.159 [main] INFO  Util.GlobalFunction - ###############################################################
+09:45:25.159 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+09:45:25.159 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+09:45:25.546 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+09:45:25.546 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+09:45:28.915 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+09:45:33.633 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+09:45:33.649 [main] DEBUG Stepdef.Login.Login - Selected test data...3
+09:45:33.655 [main] DEBUG Stepdef.Login.Login - calling Excel util
+09:45:33.662 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+09:45:34.364 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+09:45:34.367 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+09:45:34.368 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+09:45:34.689 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+09:45:34.759 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+09:45:36.563 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:LW5kaWFAMTIzNTQ=
+09:45:36.761 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Test
+11:50:43.842 [main] INFO  Util.GlobalFunction - Scenario called 
+11:50:43.954 [main] INFO  Util.GlobalFunction - ###############################################################
+11:50:43.957 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:50:43.958 [main] INFO  Util.GlobalFunction - ###############################################################
+11:50:43.959 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:50:43.959 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:50:44.510 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:50:44.512 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+11:50:57.438 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:51:15.169 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:51:15.176 [main] DEBUG Stepdef.Login.Login - Selected test data...1
+11:51:15.179 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:51:15.218 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:51:16.085 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:51:16.086 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:51:16.086 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:51:16.309 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:51:16.403 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:51:18.805 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+11:51:19.070 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :logumca2011@gmail.com
+11:51:29.489 [main] DEBUG BusinessLogic.BussinessFun - Order items Clicked #:Returns
+11:51:33.256 [main] DEBUG BusinessLogic.BussinessFun - Order#:407-0596190-6479540
+11:51:33.715 [main] DEBUG BusinessLogic.BussinessFun - Order#:Payment Method
+Net Banking: HDFC Bank
+Booking summary
+Base fare
+? 1,554.00
+Bus operator GST
+? 77.70
+Order Total
+? 1,631.70
+11:51:33.955 [main] DEBUG BusinessLogic.BussinessFun - Order#:Bus Booking
+Ticket ID: 6755TS4J
+PNR: VTA-AP-697772630305
+Journey completed
+Hope you had a pleasant journey!
+ChennaiTiruchengodu
+Vetri Travels
+A/C Sleeper (2+1)
+Boarding Point:
+10:25 PMSun, 08 May
+PALLAVARAM (KPN BUNK)
+Duration
+6h 58m
+Drop Point:
+05:23 AMMon, 09 May
+MANIKAMPAMPALAYAM
+PALLAVARAM (KPN BUNK)
+NEAR BUS STOP
+Travellers (2) Seat number
+LoganathanMale, 28 Years (Primary Traveller) L8
+IniyanMale, 5 Years L9
+Book another bus
+Download e-ticket
+Cancellation & travel policy
+Get help
+Terms & Conditions
+11:51:38.863 [main] INFO  Util.GlobalFunction - Scenario called 
+11:51:38.869 [main] INFO  Util.GlobalFunction - ###############################################################
+11:51:38.870 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:51:38.871 [main] INFO  Util.GlobalFunction - ###############################################################
+11:51:38.871 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:51:38.871 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:51:38.886 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:51:38.886 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+11:51:41.267 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:51:58.668 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:51:58.670 [main] DEBUG Stepdef.Login.Login - Selected test data...2
+11:51:58.672 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:51:58.673 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:51:58.682 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:51:58.683 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:51:58.683 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:51:58.684 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:51:58.686 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:52:01.864 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+11:52:02.575 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :logumca2011@gmail.com
+11:52:18.214 [main] DEBUG BusinessLogic.BussinessFun - Order items Clicked #:Returns
+11:52:22.350 [main] DEBUG BusinessLogic.BussinessFun - Order#:407-0596190-6479540
+11:52:22.933 [main] DEBUG BusinessLogic.BussinessFun - Order#:Payment Method
+Net Banking: HDFC Bank
+Booking summary
+Base fare
+? 1,554.00
+Bus operator GST
+? 77.70
+Order Total
+? 1,631.70
+11:52:23.224 [main] DEBUG BusinessLogic.BussinessFun - Order#:Bus Booking
+Ticket ID: 6755TS4J
+PNR: VTA-AP-697772630305
+Journey completed
+Hope you had a pleasant journey!
+ChennaiTiruchengodu
+Vetri Travels
+A/C Sleeper (2+1)
+Boarding Point:
+10:25 PMSun, 08 May
+PALLAVARAM (KPN BUNK)
+Duration
+6h 58m
+Drop Point:
+05:23 AMMon, 09 May
+MANIKAMPAMPALAYAM
+PALLAVARAM (KPN BUNK)
+NEAR BUS STOP
+Travellers (2) Seat number
+LoganathanMale, 28 Years (Primary Traveller) L8
+IniyanMale, 5 Years L9
+Book another bus
+Download e-ticket
+Cancellation & travel policy
+Get help
+Terms & Conditions
+11:52:28.432 [main] INFO  Util.GlobalFunction - Scenario called 
+11:52:28.434 [main] INFO  Util.GlobalFunction - ###############################################################
+11:52:28.434 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:52:28.434 [main] INFO  Util.GlobalFunction - ###############################################################
+11:52:28.434 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:52:28.434 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:52:28.439 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:52:28.439 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+11:52:30.950 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:52:34.955 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:52:34.957 [main] DEBUG Stepdef.Login.Login - Selected test data...3
+11:52:34.959 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:52:34.960 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:52:34.971 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:52:34.971 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:52:34.971 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:52:34.973 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:52:34.974 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:52:37.751 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:LW5kaWFAMTIzNTQ=
+11:52:37.994 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Test
+11:52:40.469 [main] INFO  Util.GlobalFunction - Scenario called 
+11:52:40.469 [main] INFO  Util.GlobalFunction - ###############################################################
+11:52:40.469 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:52:40.469 [main] INFO  Util.GlobalFunction - ###############################################################
+11:52:40.470 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+11:52:40.470 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+11:52:40.481 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:52:40.481 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+11:52:42.484 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:52:46.940 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:52:46.941 [main] DEBUG Stepdef.Login.Login - Selected test data...4
+11:52:46.942 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:52:46.943 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:52:46.953 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:52:46.954 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:52:46.954 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:52:46.955 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:52:46.957 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:52:49.660 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+11:52:49.837 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Loganathan
+11:52:52.413 [main] INFO  Util.ReportGeneration - ###############################################################
+11:52:52.414 [main] DEBUG Util.ReportGeneration - Report Generation called
+11:52:56.271 [main] DEBUG Util.ReportGeneration - Report Generated
+11:52:56.271 [main] INFO  Util.ReportGeneration - ###############################################################
+11:52:56.272 [main] INFO  Util.ReportGeneration - ###############################################################
+11:52:56.272 [main] DEBUG Util.ReportGeneration - Report Generation called
+11:52:57.900 [main] DEBUG Util.ReportGeneration - Report Generated
+11:52:57.900 [main] INFO  Util.ReportGeneration - ###############################################################
+12:25:36.610 [main] INFO  Util.GlobalFunction - Scenario called 
+12:25:36.632 [main] INFO  Util.GlobalFunction - ###############################################################
+12:25:36.637 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:25:36.638 [main] INFO  Util.GlobalFunction - ###############################################################
+12:25:36.639 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+12:25:36.640 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+12:25:37.121 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:25:37.122 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:25:51.279 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+12:25:56.788 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+12:25:56.798 [main] DEBUG Stepdef.Login.Login - Selected test data...1
+12:25:56.801 [main] DEBUG Stepdef.Login.Login - calling Excel util
+12:25:56.807 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+12:25:57.690 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+12:25:57.693 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+12:25:57.694 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+12:25:58.022 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+12:25:58.135 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+12:26:00.154 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+12:26:00.392 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :logumca2011@gmail.com
+12:26:09.787 [main] DEBUG BusinessLogic.BussinessFun - Order items Clicked #:Returns
+12:26:13.994 [main] DEBUG BusinessLogic.BussinessFun - Order#:407-0596190-6479540
+12:26:14.376 [main] DEBUG BusinessLogic.BussinessFun - Order#:Payment Method
+Net Banking: HDFC Bank
+Booking summary
+Base fare
+? 1,554.00
+Bus operator GST
+? 77.70
+Order Total
+? 1,631.70
+12:26:14.612 [main] DEBUG BusinessLogic.BussinessFun - Order#:Bus Booking
+Ticket ID: 6755TS4J
+PNR: VTA-AP-697772630305
+Journey completed
+Hope you had a pleasant journey!
+ChennaiTiruchengodu
+Vetri Travels
+A/C Sleeper (2+1)
+Boarding Point:
+10:25 PMSun, 08 May
+PALLAVARAM (KPN BUNK)
+Duration
+6h 58m
+Drop Point:
+05:23 AMMon, 09 May
+MANIKAMPAMPALAYAM
+PALLAVARAM (KPN BUNK)
+NEAR BUS STOP
+Travellers (2) Seat number
+LoganathanMale, 28 Years (Primary Traveller) L8
+IniyanMale, 5 Years L9
+Book another bus
+Download e-ticket
+Cancellation & travel policy
+Get help
+Terms & Conditions
+12:26:21.557 [main] INFO  Util.GlobalFunction - Scenario called 
+12:26:21.558 [main] INFO  Util.GlobalFunction - ###############################################################
+12:26:21.558 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:26:21.558 [main] INFO  Util.GlobalFunction - ###############################################################
+12:26:21.559 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+12:26:21.559 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+12:26:21.567 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:26:21.567 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:26:24.094 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+12:26:28.294 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+12:26:28.296 [main] DEBUG Stepdef.Login.Login - Selected test data...2
+12:26:28.297 [main] DEBUG Stepdef.Login.Login - calling Excel util
+12:26:28.298 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+12:26:28.310 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+12:26:28.311 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+12:26:28.311 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+12:26:28.314 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+12:26:28.316 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+12:26:31.027 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+12:26:31.320 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :logumca2011@gmail.com
+12:26:41.867 [main] DEBUG BusinessLogic.BussinessFun - Order items Clicked #:Returns
+12:26:46.077 [main] DEBUG BusinessLogic.BussinessFun - Order#:407-0596190-6479540
+12:26:46.599 [main] DEBUG BusinessLogic.BussinessFun - Order#:Payment Method
+Net Banking: HDFC Bank
+Booking summary
+Base fare
+? 1,554.00
+Bus operator GST
+? 77.70
+Order Total
+? 1,631.70
+12:26:46.818 [main] DEBUG BusinessLogic.BussinessFun - Order#:Bus Booking
+Ticket ID: 6755TS4J
+PNR: VTA-AP-697772630305
+Journey completed
+Hope you had a pleasant journey!
+ChennaiTiruchengodu
+Vetri Travels
+A/C Sleeper (2+1)
+Boarding Point:
+10:25 PMSun, 08 May
+PALLAVARAM (KPN BUNK)
+Duration
+6h 58m
+Drop Point:
+05:23 AMMon, 09 May
+MANIKAMPAMPALAYAM
+PALLAVARAM (KPN BUNK)
+NEAR BUS STOP
+Travellers (2) Seat number
+LoganathanMale, 28 Years (Primary Traveller) L8
+IniyanMale, 5 Years L9
+Book another bus
+Download e-ticket
+Cancellation & travel policy
+Get help
+Terms & Conditions
+12:26:52.051 [main] INFO  Util.GlobalFunction - Scenario called 
+12:26:52.053 [main] INFO  Util.GlobalFunction - ###############################################################
+12:26:52.053 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:26:52.053 [main] INFO  Util.GlobalFunction - ###############################################################
+12:26:52.053 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+12:26:52.053 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+12:26:52.063 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:26:52.064 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:26:54.139 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+12:26:58.123 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+12:26:58.125 [main] DEBUG Stepdef.Login.Login - Selected test data...3
+12:26:58.126 [main] DEBUG Stepdef.Login.Login - calling Excel util
+12:26:58.127 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+12:26:58.136 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+12:26:58.136 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+12:26:58.136 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+12:26:58.138 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+12:26:58.139 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+12:27:00.549 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:LW5kaWFAMTIzNTQ=
+12:27:00.723 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Test
+12:27:03.328 [main] INFO  Util.GlobalFunction - Scenario called 
+12:27:03.328 [main] INFO  Util.GlobalFunction - ###############################################################
+12:27:03.328 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:27:03.328 [main] INFO  Util.GlobalFunction - ###############################################################
+12:27:03.329 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+12:27:03.329 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+12:27:03.335 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:27:03.335 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:27:05.343 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+12:27:08.825 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+12:27:08.827 [main] DEBUG Stepdef.Login.Login - Selected test data...4
+12:27:08.828 [main] DEBUG Stepdef.Login.Login - calling Excel util
+12:27:08.829 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+12:27:08.840 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+12:27:08.840 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+12:27:08.840 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+12:27:08.842 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+12:27:08.843 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+12:27:10.829 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+12:27:11.059 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Loganathan
+12:27:13.340 [main] INFO  Util.ReportGeneration - ###############################################################
+12:27:13.340 [main] DEBUG Util.ReportGeneration - Report Generation called
+12:27:17.217 [main] DEBUG Util.ReportGeneration - Report Generated
+12:27:17.217 [main] INFO  Util.ReportGeneration - ###############################################################
+12:27:17.218 [main] INFO  Util.ReportGeneration - ###############################################################
+12:27:17.218 [main] DEBUG Util.ReportGeneration - Report Generation called
+12:27:18.880 [main] DEBUG Util.ReportGeneration - Report Generated
+12:27:18.880 [main] INFO  Util.ReportGeneration - ###############################################################

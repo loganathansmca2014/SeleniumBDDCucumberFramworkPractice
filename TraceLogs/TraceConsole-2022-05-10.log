@@ -1,0 +1,411 @@
+11:13:16.897 [main] INFO  Util.GlobalFunction - Scenario called 
+11:13:16.909 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:16.910 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:13:16.911 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:16.912 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:13:16.912 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:13:17.290 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:13:17.290 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:13:17.485 [main] INFO  Util.GlobalFunction - Scenario called 
+11:13:17.486 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:17.488 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:13:17.488 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:17.489 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:13:17.489 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:13:17.495 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:13:17.495 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:13:17.532 [main] INFO  Util.GlobalFunction - Scenario called 
+11:13:17.533 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:17.533 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:13:17.535 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:17.535 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:13:17.535 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:13:17.546 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:13:17.546 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:13:17.580 [main] INFO  Util.GlobalFunction - Scenario called 
+11:13:17.580 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:17.580 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:13:17.580 [main] INFO  Util.GlobalFunction - ###############################################################
+11:13:17.582 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+11:13:17.583 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+11:13:17.592 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:13:17.593 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:13:17.936 [main] INFO  Util.ReportGeneration - ###############################################################
+11:13:17.937 [main] DEBUG Util.ReportGeneration - Report Generation called
+11:13:22.143 [main] DEBUG Util.ReportGeneration - Report Generated
+11:13:22.144 [main] INFO  Util.ReportGeneration - ###############################################################
+11:21:05.473 [main] INFO  Util.GlobalFunction - Scenario called 
+11:21:05.482 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:05.483 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:21:05.484 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:05.484 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:21:05.485 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:21:05.874 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:21:05.874 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:21:32.074 [main] INFO  Util.GlobalFunction - Scenario called 
+11:21:32.076 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:32.084 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:21:32.084 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:32.085 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:21:32.086 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:21:32.094 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:21:32.096 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:21:32.196 [main] INFO  Util.GlobalFunction - Scenario called 
+11:21:32.197 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:32.197 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:21:32.197 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:32.197 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:21:32.199 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:21:32.204 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:21:32.205 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:21:32.432 [main] INFO  Util.GlobalFunction - Scenario called 
+11:21:32.432 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:32.433 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:21:32.433 [main] INFO  Util.GlobalFunction - ###############################################################
+11:21:32.434 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+11:21:32.435 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+11:21:32.450 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:21:32.452 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:21:32.834 [main] INFO  Util.ReportGeneration - ###############################################################
+11:21:32.835 [main] DEBUG Util.ReportGeneration - Report Generation called
+11:21:36.588 [main] DEBUG Util.ReportGeneration - Report Generated
+11:21:36.588 [main] INFO  Util.ReportGeneration - ###############################################################
+11:22:43.494 [main] INFO  Util.GlobalFunction - Scenario called 
+11:22:43.518 [main] INFO  Util.GlobalFunction - ###############################################################
+11:22:43.519 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:22:43.520 [main] INFO  Util.GlobalFunction - ###############################################################
+11:22:43.522 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:22:43.523 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:22:44.015 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:22:44.016 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:25:54.743 [main] INFO  Util.GlobalFunction - Scenario called 
+11:25:54.744 [main] INFO  Util.GlobalFunction - ###############################################################
+11:25:54.745 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:25:54.745 [main] INFO  Util.GlobalFunction - ###############################################################
+11:25:54.746 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:25:54.747 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:25:54.758 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:25:54.758 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:25:54.888 [main] INFO  Util.GlobalFunction - Scenario called 
+11:25:54.889 [main] INFO  Util.GlobalFunction - ###############################################################
+11:25:54.891 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:25:54.891 [main] INFO  Util.GlobalFunction - ###############################################################
+11:25:54.892 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:25:54.892 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:26:15.576 [main] INFO  Util.GlobalFunction - Scenario called 
+11:26:15.593 [main] INFO  Util.GlobalFunction - ###############################################################
+11:26:15.594 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:26:15.596 [main] INFO  Util.GlobalFunction - ###############################################################
+11:26:15.597 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:26:15.598 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:26:16.016 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:26:16.016 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:21.178 [main] INFO  Util.GlobalFunction - Scenario called 
+11:28:21.194 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:21.196 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:28:21.196 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:21.198 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:28:21.198 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:28:21.628 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:28:21.629 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:34.415 [main] INFO  Util.GlobalFunction - Scenario called 
+11:28:34.416 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:34.417 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:28:34.417 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:34.417 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:28:34.418 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:28:34.429 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:28:34.429 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:50.842 [main] INFO  Util.GlobalFunction - Scenario called 
+11:28:50.851 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:50.852 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:28:50.852 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:50.853 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:28:50.853 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:28:51.154 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:28:51.155 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:51.304 [main] INFO  Util.GlobalFunction - Scenario called 
+11:28:51.304 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:51.305 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:28:51.305 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:51.306 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:28:51.306 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:28:51.319 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:28:51.319 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:51.352 [main] INFO  Util.GlobalFunction - Scenario called 
+11:28:51.353 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:51.354 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:28:51.354 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:51.354 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:28:51.354 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:28:51.361 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:28:51.361 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:51.386 [main] INFO  Util.GlobalFunction - Scenario called 
+11:28:51.386 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:51.388 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:28:51.389 [main] INFO  Util.GlobalFunction - ###############################################################
+11:28:51.390 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+11:28:51.390 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+11:28:51.396 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:28:51.396 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:28:51.608 [main] INFO  Util.ReportGeneration - ###############################################################
+11:28:51.609 [main] DEBUG Util.ReportGeneration - Report Generation called
+11:28:55.680 [main] DEBUG Util.ReportGeneration - Report Generated
+11:28:55.680 [main] INFO  Util.ReportGeneration - ###############################################################
+11:31:45.575 [main] INFO  Util.GlobalFunction - Scenario called 
+11:31:45.592 [main] INFO  Util.GlobalFunction - ###############################################################
+11:31:45.594 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:31:45.594 [main] INFO  Util.GlobalFunction - ###############################################################
+11:31:45.595 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:31:45.595 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:31:46.070 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:31:46.070 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:32:09.328 [main] INFO  Util.GlobalFunction - Scenario called 
+11:32:09.328 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:09.330 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:32:09.330 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:09.331 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:32:09.331 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:32:09.343 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:32:09.344 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:32:09.363 [main] INFO  Util.GlobalFunction - Scenario called 
+11:32:09.364 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:09.364 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:32:09.364 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:09.365 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:32:09.365 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:32:09.371 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:32:09.372 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:32:09.393 [main] INFO  Util.GlobalFunction - Scenario called 
+11:32:09.393 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:09.393 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:32:09.394 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:09.394 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+11:32:09.394 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+11:32:55.851 [main] INFO  Util.GlobalFunction - Scenario called 
+11:32:55.866 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:55.868 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:32:55.868 [main] INFO  Util.GlobalFunction - ###############################################################
+11:32:55.869 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:32:55.870 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:32:56.281 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:32:56.281 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+11:34:32.207 [main] INFO  Util.GlobalFunction - Scenario called 
+11:34:32.220 [main] INFO  Util.GlobalFunction - ###############################################################
+11:34:32.221 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:34:32.221 [main] INFO  Util.GlobalFunction - ###############################################################
+11:34:32.222 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:34:32.222 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:34:32.614 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:34:32.614 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:35:23.863 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:35:37.950 [main] INFO  Util.GlobalFunction - Scenario called 
+11:35:37.959 [main] INFO  Util.GlobalFunction - ###############################################################
+11:35:37.960 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:35:37.960 [main] INFO  Util.GlobalFunction - ###############################################################
+11:35:37.961 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+11:35:37.961 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+11:35:38.373 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:35:38.374 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:35:44.778 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:35:52.193 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:35:52.203 [main] DEBUG Stepdef.Login.Login - Selected test data...1
+11:35:52.206 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:35:52.213 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:35:53.301 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:35:53.301 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:35:53.302 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:35:53.467 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:35:53.536 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:35:56.037 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+11:35:56.288 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :logumca2011@gmail.com
+11:36:08.160 [main] DEBUG BusinessLogic.BussinessFun - Order items Clicked #:Returns
+11:36:18.316 [main] DEBUG BusinessLogic.BussinessFun - Order#:407-0596190-6479540
+11:36:18.613 [main] DEBUG BusinessLogic.BussinessFun - Order#:Payment Method
+Net Banking: HDFC Bank
+Booking summary
+Base fare
+₹ 1,554.00
+Bus operator GST
+₹ 77.70
+Order Total
+₹ 1,631.70
+11:36:18.934 [main] DEBUG BusinessLogic.BussinessFun - Order#:Bus Booking
+Ticket ID: 6755TS4J
+PNR: VTA-AP-697772630305
+Journey completed
+Hope you had a pleasant journey!
+ChennaiTiruchengodu
+Vetri Travels
+A/C Sleeper (2+1)
+Boarding Point:
+10:25 PMSun, 08 May
+PALLAVARAM (KPN BUNK)
+Duration
+6h 58m
+Drop Point:
+05:23 AMMon, 09 May
+MANIKAMPAMPALAYAM
+PALLAVARAM (KPN BUNK)
+NEAR BUS STOP
+Travellers (2) Seat number
+LoganathanMale, 28 Years (Primary Traveller) L8
+IniyanMale, 5 Years L9
+Book another bus
+Download e-ticket
+Cancellation & travel policy
+Get help
+Terms & Conditions
+11:36:25.304 [main] INFO  Util.GlobalFunction - Scenario called 
+11:36:25.305 [main] INFO  Util.GlobalFunction - ###############################################################
+11:36:25.305 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:36:25.305 [main] INFO  Util.GlobalFunction - ###############################################################
+11:36:25.305 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+11:36:25.306 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+11:36:25.313 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:36:25.314 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:36:29.603 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:36:34.568 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:36:34.571 [main] DEBUG Stepdef.Login.Login - Selected test data...2
+11:36:34.574 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:36:34.575 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:36:34.584 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:36:34.585 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:36:34.585 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:36:34.587 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:36:34.589 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:36:37.709 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+11:36:37.949 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :logumca2011@gmail.com
+11:36:49.045 [main] DEBUG BusinessLogic.BussinessFun - Order items Clicked #:Returns
+11:36:56.007 [main] DEBUG BusinessLogic.BussinessFun - Order#:407-0596190-6479540
+11:36:56.324 [main] DEBUG BusinessLogic.BussinessFun - Order#:Payment Method
+Net Banking: HDFC Bank
+Booking summary
+Base fare
+₹ 1,554.00
+Bus operator GST
+₹ 77.70
+Order Total
+₹ 1,631.70
+11:36:56.554 [main] DEBUG BusinessLogic.BussinessFun - Order#:Bus Booking
+Ticket ID: 6755TS4J
+PNR: VTA-AP-697772630305
+Journey completed
+Hope you had a pleasant journey!
+ChennaiTiruchengodu
+Vetri Travels
+A/C Sleeper (2+1)
+Boarding Point:
+10:25 PMSun, 08 May
+PALLAVARAM (KPN BUNK)
+Duration
+6h 58m
+Drop Point:
+05:23 AMMon, 09 May
+MANIKAMPAMPALAYAM
+PALLAVARAM (KPN BUNK)
+NEAR BUS STOP
+Travellers (2) Seat number
+LoganathanMale, 28 Years (Primary Traveller) L8
+IniyanMale, 5 Years L9
+Book another bus
+Download e-ticket
+Cancellation & travel policy
+Get help
+Terms & Conditions
+11:37:02.534 [main] INFO  Util.GlobalFunction - Scenario called 
+11:37:02.535 [main] INFO  Util.GlobalFunction - ###############################################################
+11:37:02.535 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:37:02.535 [main] INFO  Util.GlobalFunction - ###############################################################
+11:37:02.535 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+11:37:02.536 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+11:37:02.545 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:37:02.545 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:37:06.549 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:37:11.153 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:37:11.155 [main] DEBUG Stepdef.Login.Login - Selected test data...3
+11:37:11.156 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:37:11.157 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:37:11.164 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:37:11.164 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:37:11.165 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:37:11.166 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:37:11.168 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:37:14.042 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:LW5kaWFAMTIzNTQ=
+11:37:14.224 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Test
+11:37:17.452 [main] INFO  Util.GlobalFunction - Scenario called 
+11:37:17.452 [main] INFO  Util.GlobalFunction - ###############################################################
+11:37:17.452 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+11:37:17.452 [main] INFO  Util.GlobalFunction - ###############################################################
+11:37:17.452 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+11:37:17.453 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+11:37:17.457 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+11:37:17.457 [main] DEBUG BrowserAccess.BrowserControl - Edge Browser lanuched Successfully
+11:37:21.264 [main] DEBUG BrowserAccess.BrowserControl - URLhttps://amazon.in/
+11:37:28.070 [main] DEBUG Stepdef.Login.Login - Browser initiated...
+11:37:28.071 [main] DEBUG Stepdef.Login.Login - Selected test data...4
+11:37:28.073 [main] DEBUG Stepdef.Login.Login - calling Excel util
+11:37:28.075 [main] INFO  Util.ExcelReaderFillo - Excel sheet called
+11:37:28.082 [main] DEBUG Util.ExcelReaderFillo - Excel path  src\test\resources\inputdata.xls
+11:37:28.082 [main] DEBUG Util.ExcelReaderFillo - Excel connection opened  
+11:37:28.082 [main] DEBUG Util.ExcelReaderFillo - Excel path  Select * from Login
+11:37:28.084 [main] INFO  Util.ExcelReaderFillo - Excel connection closed 
+11:37:28.085 [main] DEBUG BusinessLogic.BussinessFun - Application property loaded
+11:37:30.382 [main] DEBUG BusinessLogic.BussinessFun - Decoded password:SW5kaWFAMTIzNTQ=
+11:37:30.553 [main] DEBUG BusinessLogic.BussinessFun - User name Entered :Loganathan
+11:37:33.610 [main] INFO  Util.ReportGeneration - ###############################################################
+11:37:33.610 [main] DEBUG Util.ReportGeneration - Report Generation called
+11:37:36.842 [main] DEBUG Util.ReportGeneration - Report Generated
+11:37:36.842 [main] INFO  Util.ReportGeneration - ###############################################################
+12:18:47.810 [main] INFO  Util.GlobalFunction - Scenario called 
+12:18:47.832 [main] INFO  Util.GlobalFunction - ###############################################################
+12:18:47.834 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:18:47.835 [main] INFO  Util.GlobalFunction - ###############################################################
+12:18:47.836 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+12:18:47.836 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+12:18:48.263 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:18:48.264 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:19:15.834 [main] INFO  Util.GlobalFunction - Scenario called 
+12:19:15.857 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:15.858 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:19:15.861 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:15.864 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+12:19:15.865 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+12:19:15.875 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:19:15.876 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:19:32.308 [main] INFO  Util.GlobalFunction - Scenario called 
+12:19:32.322 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:32.323 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:19:32.323 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:32.324 [main] DEBUG Util.GlobalFunction - Test case Tag:TC1_User_CorrectCredentials
+12:19:32.326 [main] DEBUG Util.GlobalFunction - Test case Tag:TC01
+12:19:32.777 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:19:32.777 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:19:36.904 [main] INFO  Util.GlobalFunction - Scenario called 
+12:19:36.904 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:36.905 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:19:36.905 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:36.906 [main] DEBUG Util.GlobalFunction - Test case Tag:TC2_User_CorrectCredentials
+12:19:36.906 [main] DEBUG Util.GlobalFunction - Test case Tag:TC02
+12:19:36.918 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:19:36.919 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:19:38.905 [main] INFO  Util.GlobalFunction - Scenario called 
+12:19:38.905 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:38.906 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:19:38.906 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:38.907 [main] DEBUG Util.GlobalFunction - Test case Tag:TC3_User_InCorrectCredentials
+12:19:38.907 [main] DEBUG Util.GlobalFunction - Test case Tag:TC03
+12:19:38.916 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:19:38.916 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:19:41.990 [main] INFO  Util.GlobalFunction - Scenario called 
+12:19:41.991 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:41.991 [main] INFO  Util.GlobalFunction - Test case Name:Validate if user able to login with Correct 'User' credentials
+12:19:41.991 [main] INFO  Util.GlobalFunction - ###############################################################
+12:19:41.991 [main] DEBUG Util.GlobalFunction - Test case Tag:TC4_User_InCorrectCredentials
+12:19:41.992 [main] DEBUG Util.GlobalFunction - Test case Tag:TC04
+12:19:41.999 [main] DEBUG BrowserAccess.BrowserControl - Driver initiated 
+12:19:42.000 [main] DEBUG BrowserAccess.BrowserControl - Chrome Browser lanuched Successfully
+12:19:46.850 [main] INFO  Util.ReportGeneration - ###############################################################
+12:19:46.850 [main] DEBUG Util.ReportGeneration - Report Generation called
+12:19:51.034 [main] DEBUG Util.ReportGeneration - Report Generated
+12:19:51.035 [main] INFO  Util.ReportGeneration - ###############################################################
