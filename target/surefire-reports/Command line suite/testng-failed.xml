@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test name="Command line test" preserve-order="false">
+    <classes>
+      <class name="Practice.DBTest"/>
+      <class name="Practice.Test"/>
+      <class name="Runner.TestRunnerJunit"/>
+      <class name="Runner.TestRunnerRerun"/>
+      <class name="Runner.TestRunnerTestNG"/>
+    </classes>
+  </test> <!-- Command line test -->
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="Runner.TestRunnerJunit">
+        <methods>
+          <include name="TearDownReportGeneration"/>
+        </methods>
+      </class> <!-- Runner.TestRunnerJunit -->
+      <class name="Runner.TestRunnerTestNG">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="TearDownReportGeneration"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- Runner.TestRunnerTestNG -->
+      <class name="Runner.TestRunnerRerun">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="TearDownReportGeneration"/>
+          <include name="feature"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- Runner.TestRunnerRerun -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
